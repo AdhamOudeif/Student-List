@@ -5,4 +5,7 @@ Full Stack Web Application
 * Material UI and React Hooks with functional components. 
 
 # App Preview / Backend / Postman usage
-![Alt text](Student-List/resources/demoappreact1.PNG?raw=true "Title")
+![Alt text](/resources/demoappreact1.PNG?raw=true "Title")
+![Alt text](/resources/demoappreact2.PNG?raw=true "Title")
+![Alt text](/resources/demoappreact3.PNG?raw=true "Title")
+![Alt text](/resources/demoappreact4.PNG?raw=true "Title")
